@@ -17,7 +17,7 @@
   *Institute of Aeronautical Engineering, Telangana, India*  
   *Graduated: May. 2020*
 
-## 🔧 Technical Skills
+## 🔧 Skills
 - **Programming Languages**: Python, R, SQL, Java, C++
 - **Statistical Analysis**: Hypothesis testing, regression analysis, probability
 - **Data Manipulation**: Pandas, NumPy
