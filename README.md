@@ -6,7 +6,7 @@
 
 ### Hey Techiee!!!!! 👋
 
-*Passionate about leveraging advanced data science techniques to drive business value and make social impact. With a penchant for pythonic code and thrives in the nuance of structured and normal distributions.*
+*Passionate about developing large language models (LLMs) and leveraging advanced data science techniques to drive business value and impact. Enjoys working in data science, data analytics, and machine learning, with a focus on crafting efficient and effective solutions.*
 
 ## 🎓 Education
 - **Master of Science, Data Science**  
